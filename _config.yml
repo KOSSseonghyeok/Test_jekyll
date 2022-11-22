@@ -31,7 +31,10 @@ github_username:  KOSSseonghyeok
 theme: minima
 plugins:
   - jekyll-feed
-
+comment : 
+provider : "disqus"
+disqus : 
+shorname : "Hyeoki_iii"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -51,3 +54,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
